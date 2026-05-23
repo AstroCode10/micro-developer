@@ -83,3 +83,8 @@ Agent: Senior QA Tester -> Activating "Execute Python Script" tool...
 [Tool Run Output]: Success! Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 
 Agent: Senior QA Tester -> Code verified. Formulating final response...
+
+---
+
+## 🛡️ License
+This project is open-source and licensed under the MIT License.
