@@ -36,7 +36,7 @@ The system utilizes an agentic feedback loop to ensure generated code actually r
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/AstroCode10/micro-developer.git](https://github.com/AstroCode10/micro-developer.git)
+git clone https://github.com/AstroCode10/micro-developer.git
 cd micro-developer
 ```
 
